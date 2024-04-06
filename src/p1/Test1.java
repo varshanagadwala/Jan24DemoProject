@@ -7,5 +7,6 @@ public class Test1 {
 		System.out.println("line number 6 change in Test1");
 		System.out.println("Branch B Line 7 change");
 		System.out.println("New Branch B Line 9 change");
+		System.out.println("Branch A new Line 10 change");
 	}
 }
